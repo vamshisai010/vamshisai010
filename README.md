@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Gande Sai Vamshi</h1>
+<h1 align="center">Hi 👋, I'm Gande Saivamshi</h1>
 
-<h3 align="center">DevSecOps Engineer | AWS & Cloud Enthusiast | Data Science Student</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS Enthusiast | DevSecOps Learner</h3>
 
 <p align="center">
-  🚀 Building Cloud & DevSecOps Projects | ☁️ Exploring AWS & Kubernetes | 📚 Continuous Learner
+  ☁️ AWS | 🚀 DevOps | 🔐 DevSecOps | 🐳 Kubernetes & Docker
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-Sai%20Vamshi-blue?style=for-the-badge&logo=linkedin">
   </a>
 
-  <a href="https://github.com/gandesaivamshi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-gandesaivamshi-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/vamshisai010" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-vamshisai010-black?style=for-the-badge&logo=github">
   </a>
 
   <a href="mailto:vamshisai010@gmail.com">
@@ -37,27 +37,23 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gandesaivamshi&label=Profile%20Views&color=0e75b6&style=flat" alt="gandesaivamshi" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I’m **Gande Sai Vamshi**, a passionate **Computer Science (Data Science)** student focused on **Cloud Computing, DevOps, and DevSecOps**.
+I’m a passionate Cloud & DevOps enthusiast focused on building scalable and automated infrastructure using AWS and DevOps tools.
 
-- 🎓 B.Tech CSE (Data Science) Student
-- ☁️ Learning and building projects on **AWS Cloud**
-- 🔐 Interested in **DevSecOps & Cloud Security**
-- 🐳 Working with **Docker, Kubernetes & Terraform**
-- ⚙️ Building CI/CD pipelines using **GitHub Actions & Jenkins**
-- 📊 Skilled in **Python, MySQL, Power BI & Data Analysis**
-- 🚀 Passionate about automation, scalable infrastructure, and real-world cloud projects
+- ☁️ Working on AWS Cloud & DevOps projects
+- 🐳 Hands-on with Docker & Kubernetes
+- ⚙️ Building CI/CD pipelines using Jenkins & GitHub Actions
+- 🔐 Exploring DevSecOps & Cloud Security
+- 🏗️ Learning Infrastructure as Code using Terraform
+- 🐧 Comfortable with Linux Administration & Shell Scripting
+- 🚀 Interested in automation, cloud infrastructure, and deployment strategies
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -69,44 +65,35 @@ I’m **Gande Sai Vamshi**, a passionate **Computer Science (Data Science)** stu
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
 ## 🚀 Current Focus
 
-- Building **DevSecOps CI/CD pipelines**
-- Deploying applications on **Amazon EKS**
-- Automating infrastructure using **Terraform**
-- Learning **Cloud Security & Kubernetes Security**
-- Working on real-time **AWS & DevOps projects**
-- Improving problem-solving and automation skills
+- AWS Cloud Infrastructure
+- Kubernetes & Amazon EKS
+- CI/CD Automation
+- Terraform & Infrastructure as Code
+- DevSecOps Practices
+- Containerization & Deployment Automation
+- Linux & Shell Scripting
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
 ### 🔹 DevSecOps CI/CD Pipeline Project
-- Built a complete DevSecOps pipeline using:
-  - GitHub Actions
-  - Docker
-  - SonarQube
-  - Trivy
-  - Terraform
-  - Amazon EKS
-  - Amazon ECR
 
-### 🔹 Crop Disease Detection using AI
-- AI-based application to detect crop diseases from leaf images
-- Uses Machine Learning & image prediction techniques
+Built a complete DevSecOps pipeline using:
 
-### 🔹 Data Analytics & Visualization Projects
-- Built dashboards using:
-  - Power BI
-  - Excel
-  - Python
-  - Pandas & Matplotlib
+- GitHub Actions
+- Docker
+- SonarQube
+- Trivy
+- Terraform
+- Amazon EKS
+- Amazon ECR
 
 ---
 
@@ -115,8 +102,7 @@ I’m **Gande Sai Vamshi**, a passionate **Computer Science (Data Science)** stu
 - Cisco Python Programming Essentials
 - Cisco Introduction to Networks
 - Oracle MySQL Database Service Certification
-- Accenture Data Analytics Job Simulation
-- Microsoft Excel Certification
+- AWS & DevOps Virtual Internship
 - AI/ML Virtual Internship – EduSkills
 
 ---
@@ -124,15 +110,15 @@ I’m **Gande Sai Vamshi**, a passionate **Computer Science (Data Science)** stu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gandesaivamshi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vamshisai010&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandesaivamshi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshisai010&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gandesaivamshi&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=vamshisai010&theme=tokyonight" />
 </p>
 
 ---
@@ -140,11 +126,11 @@ I’m **Gande Sai Vamshi**, a passionate **Computer Science (Data Science)** stu
 ## 🌐 Connect With Me
 
 - 🔗 LinkedIn: https://linkedin.com/in/gandesaivamshi
-- 🐙 GitHub: https://github.com/gandesaivamshi
+- 🐙 GitHub: https://github.com/vamshisai010
 - 📧 Email: vamshisai010@gmail.com
 
 ---
 
 <p align="center">
-  <b>💡 “Passionate about Cloud, DevOps, Automation, and Building Scalable Solutions.”</b>
+  <b>☁️ Building skills in Cloud, DevOps, Kubernetes, and DevSecOps.</b>
 </p>
