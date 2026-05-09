@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**vamshisai010/vamshisai010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 II’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Gande Saivamshi</h1>
 
 <h3 align="center">
@@ -23,6 +6,10 @@ Cloud & DevOps Engineer | AWS Enthusiast | DevSecOps Learner
 
 <p align="center">
 ☁️ AWS • 🚀 DevOps • 🔐 DevSecOps • 🐳 Kubernetes • ⚙️ Automation
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+Cloud+Engineer;DevOps+%26+DevSecOps+Learner;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Enthusiast" />
 </p>
 
 <p align="center">
@@ -45,21 +32,21 @@ Cloud & DevOps Engineer | AWS Enthusiast | DevSecOps Learner
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I’m a passionate Cloud & DevOps enthusiast focused on building scalable, automated, and secure cloud infrastructure using modern DevOps practices.
+Aspiring Cloud & DevOps Engineer focused on AWS, Kubernetes, CI/CD automation, and DevSecOps practices.
 
 - ☁️ Working on AWS Cloud & DevOps projects
-- 🐳 Hands-on experience with Docker & Kubernetes
+- 🐳 Hands-on with Docker & Kubernetes
 - ⚙️ Building CI/CD pipelines using Jenkins & GitHub Actions
 - 🔐 Exploring DevSecOps & Cloud Security
 - 🏗️ Learning Infrastructure as Code using Terraform
 - 🐧 Comfortable with Linux Administration & Shell Scripting
-- 🚀 Passionate about automation, cloud-native technologies, and deployment strategies
+- 🚀 Passionate about automation and cloud-native technologies
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
@@ -89,7 +76,7 @@ I’m a passionate Cloud & DevOps enthusiast focused on building scalable, autom
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
 - AWS Cloud Infrastructure
 - Kubernetes & Amazon EKS
@@ -101,9 +88,9 @@ I’m a passionate Cloud & DevOps enthusiast focused on building scalable, autom
 
 ---
 
-## 📂 Featured Project
+# 📂 Featured Project
 
-### 🔹 DevSecOps CI/CD Pipeline Project
+## 🔹 [DevSecOps CI/CD Pipeline Project](https://github.com/vamshisai010)
 
 Built and deployed a complete DevSecOps pipeline using:
 
@@ -123,11 +110,11 @@ Built and deployed a complete DevSecOps pipeline using:
 - Containerized application deployments
 - Infrastructure provisioning using Terraform
 - Security scanning with SonarQube & Trivy
-- Kubernetes-based deployments on Amazon EKS
+- Kubernetes deployments on Amazon EKS
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 - AWS DevSecOps Training Certificate
 - AWS Cloud Practitioner Course Completion Certificate
@@ -137,23 +124,19 @@ Built and deployed a complete DevSecOps pipeline using:
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vamshisai010&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vamshisai010&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshisai010&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vamshisai010&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamshisai010&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
