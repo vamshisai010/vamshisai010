@@ -134,6 +134,10 @@ Built and deployed a complete DevSecOps pipeline using:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamshisai010&theme=github-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/5da84c609f482c59b6a4a1fb97de58869a2abffc9f6066de84d67cffdaf046e4/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d76616d736869736169303130267468656d653d6769746875622d6461726b26686964655f626f726465723d74727565" />
+</p>
+
 ---
 
 # 🌐 Connect With Me
